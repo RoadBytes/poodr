@@ -1,5 +1,11 @@
 # Notes for CodeNewbies
 
+## Practice for Ch 3
+
+Here is a slide file I made:  :)
+
+https://docs.google.com/a/roadbytes.me/presentation/d/10ll2uezwovJtEOfQNUNATXdxcpcFHqLxSszkp33jAIw/edit?usp=sharing
+
 ## Practice for Ch 2
 
 * read ch 2 
